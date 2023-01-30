@@ -10,17 +10,17 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 
 ## Screenshots
 
-Sign in page:
-<img src="https://github.com/ainsoft-org/i18n.web/blob/main/public/assets/screenshots/SignIn.png?raw=true"/>
+**Sign in page:**
+- <img src="https://github.com/ainsoft-org/i18n.web/blob/main/public/assets/screenshots/SignIn.png?raw=true"/>
 
-Dashboard:
-<img src="https://github.com/ainsoft-org/i18n.web/blob/main/public/assets/screenshots/Dashboard.png?raw=true"/>
+**Dashboard:**
+- <img src="https://github.com/ainsoft-org/i18n.web/blob/main/public/assets/screenshots/Dashboard.png?raw=true"/>
 
-Project:
-<img src="https://github.com/ainsoft-org/i18n.web/blob/main/public/assets/screenshots/Project.png?raw=true"/>
+**Project:**
+- <img src="https://github.com/ainsoft-org/i18n.web/blob/main/public/assets/screenshots/Project.png?raw=true"/>
 
-English example:
-<img src="https://github.com/ainsoft-org/i18n.web/blob/main/public/assets/screenshots/English.png?raw=true"/>
+**English example:**
+- <img src="https://github.com/ainsoft-org/i18n.web/blob/main/public/assets/screenshots/English.png?raw=true"/>
 
-Uzbek example:
-<img src="https://github.com/ainsoft-org/i18n.web/blob/main/public/assets/screenshots/Uzbek.png?raw=true"/>
+**Uzbek example:**
+- <img src="https://github.com/ainsoft-org/i18n.web/blob/main/public/assets/screenshots/Uzbek.png?raw=true"/>
